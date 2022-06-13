@@ -1,5 +1,5 @@
 # Projetos Javascripts
 
-## •	To-do List
-   •	Contador
+•	To-do List
+•	Contador
 
